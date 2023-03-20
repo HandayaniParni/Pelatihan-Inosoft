@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-family: sans-serif;
+    height:100%;
+    width: 100%;
+}
+
+span {
+    color: #1AA7EC;
+}
+
+.section-atas {
+    background-color: #EDEDED;
+    text-align: center;
+    padding: 50px;
+    margin-bottom:20px;
+}
+
+.section-atas p {
+    font-size: 12px;
+}
+
+.footer {
+    background-color: #1B1E23;
+    color: white;
+}
+
+.footer p {
+    font-size: 12px;
+    text-align: center;
+    padding: 10px;
+}
